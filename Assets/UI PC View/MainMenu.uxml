@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20PC%20View/MainMenu.uss?fileID=7433441132597879392&amp;guid=d23df021a20e53f44ab3b162508760c9&amp;type=3#MainMenu" />
+    <ui:VisualElement name="Panel" class="panel" style="flex-grow: 1; flex-direction: column; opacity: 0.76; overflow: visible;">
+        <ui:VisualElement name="Container" class="menu" style="flex-grow: 1; -unity-background-image-tint-color: rgb(84, 80, 80); max-width: 0; max-height: 2288px; margin-top: 0; width: 368px; height: 1770px; align-self: stretch;" />
+    </ui:VisualElement>
+</ui:UXML>
